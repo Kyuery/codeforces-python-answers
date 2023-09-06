@@ -26,4 +26,4 @@ We welcome contributions to this repository! If you have a Python solution to a 
 3. Add your Python solution and explanation in the appropriate group folder.
 4. Create a pull request describing your changes.
 
-Happy coding in Python! 🚀✨
+Happy coding in Python 🚀✨
